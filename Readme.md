@@ -2,7 +2,8 @@ Run app
 =====================
 
 To start app you need build project with command:
-mvn clean install
+
+    mvn clean install
 
 Program work in two mode: client and server.
 When run program in argument pass mode and port
